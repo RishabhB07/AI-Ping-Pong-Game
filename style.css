@@ -21,3 +21,15 @@
 #status{
     font-size: 22px;
 }
+.modal-dialog{
+    width: 90%;
+    font-size: 20px;
+}
+.copy_right_footer{
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: grey;
+    line-height: 3;
+    text-align: center;
+}
