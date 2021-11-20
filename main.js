@@ -43,7 +43,7 @@ function modelLoaded(){
 
 function startGame(){
   GameStatus="start";
-  document.getElementById("status").innerHTML="Game is Loading";
+  document.getElementById("status").innerHTML="Game is Loaded";
 }
 
 function gotPoses(results){
